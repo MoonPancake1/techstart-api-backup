@@ -9,3 +9,8 @@ def get_version():
 
 def get_item():
     return ['item 1', 'item 2']
+
+
+def get_time():
+    return "Now time"
+
